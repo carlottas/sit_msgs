@@ -1,0 +1,15 @@
+Header header
+
+# INPUTS
+string SceneName
+SpatialAtom[] Object
+string SupportName
+string[] SubClasses
+string[] SuperClasses
+RetrievalEpisodic retrieval
+---
+
+#OUTPUTS
+string EpisodicSceneName
+bool learnt
+SpatialAtom[] EpisodicObject 

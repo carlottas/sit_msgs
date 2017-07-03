@@ -1,0 +1,3 @@
+string ObjectProperty
+Int32 minCardinality
+string Primitive

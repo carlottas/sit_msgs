@@ -1,0 +1,5 @@
+string Name
+string[] FirstSuperClass
+string[] SubClasses
+string[] SuperClasses
+string[] IsFirstSuperCLassOf

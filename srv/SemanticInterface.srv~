@@ -1,0 +1,15 @@
+Header header
+
+# INPUTS
+atom[] geometricPrimitives
+---
+
+#OUTPUTS
+string SceneName
+string[] SubClasses
+string[] SuperClasses
+string[] FirstSuperClass
+string[] isFirstSuperClassOf 
+bool learnt 
+SpatialAtom[] Objects
+

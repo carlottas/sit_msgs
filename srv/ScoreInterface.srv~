@@ -1,0 +1,10 @@
+Header header
+
+# INPUTS
+EpisodicScoreItem Episodic
+SemanticScoreItem Semantic
+---
+
+#OUTPUTS
+String output
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>sit_msgs</name>
+  <version>0.1.0</version>
+  <description>The sit_test package describing the common message architecture</description>
+
+  
+  <maintainer email="luca.buoncompagni@edu.unige.it">Luca Buoncompagni</maintainer>
+  <author email="matteo.mini92@gmail.com">Matteo Minì</author>
+  <url type="website">https://gitlab.com/EmaroLab/sit_test</url> 
+  
+  <license>GPLv2</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>message_runtime</run_depend>
+
+  <export>
+  </export>
+
+</package>
