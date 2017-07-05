@@ -8,10 +8,12 @@ string SupportName
 string[] SubClasses
 string[] SuperClasses
 RetrievalEpisodic retrieval
+string[] retrievalSemantic
 ---
 
 #OUTPUTS
 string EpisodicSceneName
 bool learnt
-SpatialAtom[] EpisodicObject 
+SpatialAtom[] EpisodicObject
+string[] retrievalSemantic 
 

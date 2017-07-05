@@ -1,3 +1,3 @@
 string ObjectProperty
-std_msgs/Int32 minCardinality
+int32 minCardinality
 string Primitive

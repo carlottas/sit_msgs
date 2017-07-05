@@ -1,6 +1,7 @@
 Header header
 
 # INPUTS
+int32 Decision 
 atom[] geometricPrimitives
 RetrievalSemantic[] retrieval 
 ---
