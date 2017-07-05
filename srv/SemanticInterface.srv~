@@ -2,6 +2,7 @@ Header header
 
 # INPUTS
 atom[] geometricPrimitives
+RetrievalSemantic[] retrieval 
 ---
 
 #OUTPUTS

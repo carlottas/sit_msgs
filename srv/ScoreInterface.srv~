@@ -6,5 +6,5 @@ SemanticScoreItem Semantic
 ---
 
 #OUTPUTS
-String output
+string output
 

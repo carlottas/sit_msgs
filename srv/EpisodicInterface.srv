@@ -1,6 +1,7 @@
 Header header
 
 # INPUTS
+int32 Decision 
 string SceneName
 SpatialAtom[] Object
 string SupportName
@@ -13,3 +14,4 @@ RetrievalEpisodic retrieval
 string EpisodicSceneName
 bool learnt
 SpatialAtom[] EpisodicObject 
+

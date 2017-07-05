@@ -6,7 +6,7 @@ SpatialAtom[] Object
 string SupportName
 string[] SubClasses
 string[] SuperClasses
-RetrievalEpisodic[] retrieval
+RetrievalEpisodic retrieval
 ---
 
 #OUTPUTS
