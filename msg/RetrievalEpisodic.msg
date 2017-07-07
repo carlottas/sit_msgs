@@ -1,5 +1,5 @@
 string support
-std_msgs/Int32 time 
+int32 time 
 objectPropertyRetrieval[] objectProperty 
 retrievalAtom[] primitives 
 
