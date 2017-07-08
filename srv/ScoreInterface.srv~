@@ -1,8 +1,11 @@
 Header header
 
 # INPUTS
+int32 Decision 
 EpisodicScoreItem Episodic
 SemanticScoreItem Semantic
+string[] episodicRetrieval
+string[] semanticRetrieval 
 ---
 
 #OUTPUTS

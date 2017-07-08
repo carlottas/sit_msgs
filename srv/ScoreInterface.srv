@@ -4,8 +4,15 @@ Header header
 int32 Decision 
 EpisodicScoreItem Episodic
 SemanticScoreItem Semantic
+string[] episodicRetrieval
+string[] semanticRetrieval 
 ---
 
 #OUTPUTS
-string output
+string[] toBeForgottenSemantic
+string[] toBeForgottenEpisodic 
+string[] lowScoreSemantic 
+string[] lowScoreEpisodic
+string[] forgotSemantic
+string[] forgotEpisodic
 
