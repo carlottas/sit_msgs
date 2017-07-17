@@ -5,9 +5,15 @@ int32 Decision
 EpisodicScoreItem Episodic
 SemanticScoreItem Semantic
 string[] episodicRetrieval
-string[] semanticRetrieval 
+string[] semanticRetrieval
+int32 DecisionForgetting  
 ---
 
 #OUTPUTS
-string output
+ToBeForgetting[] toBeForgottenSemantic
+ToBeForgetting[] toBeForgottenEpisodic 
+LowScore[] lowScoreSemantic 
+LowScore[] lowScoreEpisodic
+Forgot[] forgotSemantic
+Forgot[] forgotEpisodic
 

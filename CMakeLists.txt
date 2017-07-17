@@ -23,6 +23,7 @@ add_message_files(
   retrievalAtom.msg
   geometricCharacteristic.msg
   objectPropertyRetrieval.msg
+  ScoreCounter.msg
   
   
 )
