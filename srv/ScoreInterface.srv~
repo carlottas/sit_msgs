@@ -7,13 +7,17 @@ SemanticScoreItem Semantic
 string[] episodicRetrieval
 string[] semanticRetrieval
 int32 DecisionForgetting  
+string[] episodicForgot
+string[] semanticForgot
+string[] userPutForget
+string[] userRemoveForget
 ---
 
 #OUTPUTS
-ToBeForgetting[] toBeForgottenSemantic
-ToBeForgetting[] toBeForgottenEpisodic 
-LowScore[] lowScoreSemantic 
-LowScore[] lowScoreEpisodic
-Forgot[] forgotSemantic
-Forgot[] forgotEpisodic
+ScoreCounter[] toBeForgottenSemantic
+ScoreCounter[] toBeForgottenEpisodic 
+ScoreCounter[] lowScoreSemantic 
+ScoreCounter[] lowScoreEpisodic
+ScoreCounter[] forgotSemantic
+ScoreCounter[] forgotEpisodic
 

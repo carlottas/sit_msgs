@@ -7,6 +7,10 @@ SemanticScoreItem Semantic
 string[] episodicRetrieval
 string[] semanticRetrieval
 int32 DecisionForgetting  
+string[] episodicForgot
+string[] semanticForgot
+string[] userPutNoForget
+string[] userRemoveNoForget
 ---
 
 #OUTPUTS
