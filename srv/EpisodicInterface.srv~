@@ -16,4 +16,4 @@ string EpisodicSceneName
 bool learnt
 SpatialAtom[] EpisodicObject
 string[] retrievalSemantic 
-
+string[] retrievalEpisodic 

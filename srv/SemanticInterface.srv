@@ -4,6 +4,7 @@ Header header
 int32 Decision 
 atom[] geometricPrimitives
 RetrievalSemantic[] retrieval 
+string[] toBeForget
 ---
 
 #OUTPUTS
