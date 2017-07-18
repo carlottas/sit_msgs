@@ -11,6 +11,8 @@ string[] episodicForgot
 string[] semanticForgot
 string[] userPutNoForget
 string[] userRemoveNoForget
+string[] resetCounter
+string[] userNoForget
 ---
 
 #OUTPUTS

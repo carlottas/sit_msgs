@@ -9,8 +9,8 @@ string[] semanticRetrieval
 int32 DecisionForgetting  
 string[] episodicForgot
 string[] semanticForgot
-string[] userPutForget
-string[] userRemoveForget
+string[] userPutNoForget
+string[] userRemoveNoForget
 ---
 
 #OUTPUTS

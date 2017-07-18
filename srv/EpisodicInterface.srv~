@@ -9,6 +9,7 @@ string[] SubClasses
 string[] SuperClasses
 RetrievalEpisodic retrieval
 string[] retrievalSemantic
+string[] toBeForget
 ---
 
 #OUTPUTS

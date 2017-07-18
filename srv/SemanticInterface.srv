@@ -16,4 +16,6 @@ string[] isFirstSuperClassOf
 bool learnt 
 SpatialAtom[] Objects
 string[] retrievaled
+string[] resetCounter
+string[] userNoForget
 

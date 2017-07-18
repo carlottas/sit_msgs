@@ -18,3 +18,5 @@ bool learnt
 SpatialAtom[] EpisodicObject
 string[] retrievalSemantic 
 string[] retrievalEpisodic 
+string[] resetCounter
+string[] userNoForget
