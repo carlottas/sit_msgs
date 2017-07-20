@@ -22,4 +22,8 @@ ScoreCounter[] lowScoreSemantic
 ScoreCounter[] lowScoreEpisodic
 ScoreCounter[] forgotSemantic
 ScoreCounter[] forgotEpisodic
+string[] deleteSemantic
+string[] deleteEpisodic
+string[] putForgotSemantic
+string[] putForgotEpisodic
 

@@ -10,6 +10,8 @@ string[] SuperClasses
 RetrievalEpisodic retrieval
 string[] retrievalSemantic
 string[] toBeForget
+string[] deleteEpisodic
+string[] deleteSemantic
 ---
 
 #OUTPUTS

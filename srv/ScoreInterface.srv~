@@ -11,6 +11,8 @@ string[] episodicForgot
 string[] semanticForgot
 string[] userPutNoForget
 string[] userRemoveNoForget
+string[] resetCounter
+string[] userNoForget
 ---
 
 #OUTPUTS
@@ -20,4 +22,8 @@ ScoreCounter[] lowScoreSemantic
 ScoreCounter[] lowScoreEpisodic
 ScoreCounter[] forgotSemantic
 ScoreCounter[] forgotEpisodic
+string[] deleteSemantic
+string[] deleteEpisodic
+string[] forgotSemantic
+string[] forgotEpisodic
 

@@ -10,6 +10,7 @@ string[] SuperClasses
 RetrievalEpisodic retrieval
 string[] retrievalSemantic
 string[] toBeForget
+string[] deleteEpisodic
 ---
 
 #OUTPUTS
@@ -18,3 +19,5 @@ bool learnt
 SpatialAtom[] EpisodicObject
 string[] retrievalSemantic 
 string[] retrievalEpisodic 
+string[] resetCounter
+string[] userNoForget

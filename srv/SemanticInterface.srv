@@ -5,6 +5,7 @@ int32 Decision
 atom[] geometricPrimitives
 RetrievalSemantic[] retrieval 
 string[] toBeForget
+string[] deleteSemantic
 ---
 
 #OUTPUTS
